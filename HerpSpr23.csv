@@ -1,92 +1,92 @@
-﻿ID,Entered By (capture data),Checked By (capture data),Date,Weather,Starting Ambient Temperature,Ending Ambient Temperature,Time,Sex,Field Morph,Perch Type,Starting Distance (cm),FID (cm),Distance Fled (cm),Perch Temperature,Trail Distance (cm),Perch Height (cm),Perch Diameter (mm),Approach Behavior,Orientation,Catch Behavior,CaptureNotes,Entered By (Measurements),Checked By (Measurements),Start Time,Sex,Table Morph,SVL (mm),Total Length (mm),Broken Tail,Regrowth Tail,Mass (g),Number Ectoparasites,Handling Behavior,Endurance (s),Forelimb Length (mm) (person 1),Forelimb Measured by (person 1),Forelimb Length (mm) (person 2),Forelimb measured by (person 2),Hindlimb Length (mm) (person 1),Hindlimb Measured By (person 1),hindlimb length (person 2),hindlimb measured by (person 2),Dewlap Area (mm2) (person 1),Dewlap Measured By (person 1),Dewlap Area (mm2) (person 2),Dewlap Measured By (person 2),Measurement notes
-T1,Nicki,Jon,3/28/23,,,,5:44 PM,M,C,TR,361,73,23,26.7,86,92,29,S,180,"B,S,CC","palm tree, 8 min collection time",Carrie,Jon,,M,C,58,114,Y,Y,3.36,0,"B, S",79,15.297,Carrie,,,25.659,Gabriel,,,84.6,Jon,90.23,Chelsea,
-T2,Jon,Carrie,3/28/23,,,,5:55 PM,M,C,TR,272,30,32,28.3,67,47,19,S,180,"B, S","Palm tree, 2 anoles nearby, 1/4 tail regrown",Jon,Gaby,,M,C,60,125,Y,Y,6.09,0,"B, S, D",143,13.459,Carrie,,,25.933,Ayanah,,,186.9,Jon,179.65,Chelsea,
-T3,Nicki,Carrie,3/28/23,,,,6:00 PM,M,C,TR,533,155,110,29,330,120,50,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T4,Nicki,Carrie,4/4/23,sunny,26.4,27.2,4:16 PM,M,C,TR,1190,90,28,31.3,154,128,100,S,0,"S, B, D",lost during capture,Jon,Michael,16:29,M,C,57,87,Y,N,3.63,0,"B, S, DE, D",69,15.419,Carrie,,,24.3,Gabriel,,,181.5,Jon,194.4,Chelsea,
-T5,Nicki,Maria,4/4/23,sunny,26.4,27.2,4:27 PM,F,B,TR,754,107,22,33.1,122,154,60,S,0,NR,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T6,Nicki,Maria,4/4/23,sunny,26.4,27.2,4:41 PM,M,C,TR,890,133,23,31.5,92,121,70,PU,0,NR,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T7,Nicki,Isabella,4/4/23,sunny,26.4,27.2,4:57 PM,M,C,TR,957,176,65,29.2,126,57,70,S,0,"S,D",,Jon,Gaby,16:57,M,C,58,88,Y,N,5.14,0,"B, S",80,16.832,Carrie,,,29.909,Gaby,,,186.7,Jon,173,Chelsea,
-T8,Nicki,Isabella,4/4/23,sunny,26.4,27.2,5:00 PM,M,C,TR,1530,213,48,30,381,114,110,DE,0,S ,may have caught the wrong anole,Jon,Gaby,17:16,M,C,59,132,Y,N,5.03,0,"B, S",136,16.662,Nicki,16.981,Carrie,27.951,Gaby,,,190,Jon,211.45,Chelsea,
-T9,Nicki,Isabella,4/4/23,sunny,26.4,27.2,5:16 PM,M,C,TR,316,256,125,27.6,200,90,558,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T10,Nicki,Isabella,4/4/23,sunny,26.4,27.2,5:22 PM,M,C,TR,653,142,40,31,260,125,100,DE,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T11,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:34 PM,M,C,TR,1122,70,234,25.1,250,74,70,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T12,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:37 PM,M,C,TR,540,10,100,29.1,260,87,830,"DE, HB",0,NR,,Jon,Michael,17:41,M,C,58,175,N,N,4.48,0,"B, S",171,16.409,Nicki,16.53,Carrie,23.684,Gaby,,,242.4,Jon,235.5,Chelsea,
-T13,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:42 PM,F,C,TR,287,34,19,27.9,168,37,600,S,0,"B, D",,Jon,Michael,17:44,F,C,45,71,Y,Y,1.78,0,"S, D",202,12.655,Nicki,12.761,Carrie,"18,632",Gaby,,,20.9,Jon,16.95,Chelsea,
-T14,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:53 PM,F,B,TR,293,84,45,25.5,160,60,750,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T15,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,6:00 PM,M,C,G,770,109,49,38.3,0,0,,DE,90 L,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T16,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,6:12 PM,M,C,TR,1184,90,105,26,200,52,240,S,0,B,,Nicki,Gaby,18:15,M,C,51,141,N,N,4.23,0,"B,S",191,17.039,Nicki,17.772,Carrie,26.036,Gaby,,,170.7,Jon,167.86,Chelsea,
-T17,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,6:17 PM,M,C,TR,352,72,38,28.3,240,63,290,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-T18,Ayanah,Maria,4/18/23,partly cloudy,26.2,27,4:37 PM,F,B,TR,737,162,46,31.3,356,27,19,NR,180,None,TTC- 1:06,Ian,,16:42,F,D,46,95,Y,N,2.28,0,"B,S",217,,,,,,,,,,,,,
-T19,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,4:44 PM,M,C,TR,457,33,121,23.6,604,41,2,B,0,"B,S",TTC- 0:15,Ian,,16:46,M,C,53,155,N,N,3.49,0,"B,S",133,,,,,,,,,,,,,
-T20,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,4:51 PM,M,C,Rock,249,63,70,25,995,14,,B,90 R,"S,B,D",TTC- 0:45,Ian,,16:52,M,C,52,104,Y,N,2.89,0,"D,B,S,DE",67,,,,,,,,,,,,,
-T21,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,4:56 PM,F,DB,Log,353,58,3,27.4,1127,15,15,B,90 L,"S,B",TTC- 0:44,Ian,,17:00,F,DB,46,104,N,N,2.26,0,"B,S",151,,,,,,,,,,,,,Missing left hindleg below knee
-T22,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:01 PM,F,B,G,165,95,56,24.1,0,0,,NR,180,,TTC- ,,,,,,,,,,,,,,,,,,,,,,,,,,
-T23,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:04 PM,F,B,TR,235,51,47,20.9,0,31,39,NR,90 L,"B,S",TTC- 0:35,Ian,,17:07,F,DB,41,112,N,N,1.56,0,"B,S",75,,,,,,,,,,,,,
-T24,Ayanah,Gabriel,18-Apr,partly cloudy,26.2,27,5:10 PM,F,B,G,165,56,68,21.8,0,0,,NR,90 L,"B,S",TTC- ,Ian,,17:13,F,DB,48,107,N,N,2.36,0,"B,S",149,,,,,,,,,,,,,
-T25,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:15 PM,F,DB,G,216,117,29,20.8,0,0,,NR,180,"B,S",TTC- 0:38,Ian,,17:19,F,C,39,108,N,N,3.14,0,"S,B",71,,,,,,,,,,,,,
-T26,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:22 PM,F,DB,Rock,122,70,39,18.7,195,18,,B,90 R,"B,S",TTC- 0:20,Ian,,17:24,F,DB,41,115,N,N,1.79,0,S,103,,,,,,,,,,,,,
-T27,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:32 PM,F,B,TR,94,84,34,23.9,15,37,9,NR,90 L,"B,S",TTC- 1:58,Ian,,17:35,F,B,42,119,N,N,2.05,0,"S,B,D",52,,,,,,,,,,,,,
-T28,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:37 PM,F,B,Fern,210,96,31,21.1,0,26,1,B,180,,TTC- ,,,,,,,,,,,,,,,,,,,,,,,,,,
-T29,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:44 PM,M,C,TR,124,61,104,22.4,0,36,5,NR,0,B,TTC- 2:05,Ian,,18:12,M,C,46,119,Y,N,2.24,0,"B,S",83,,,,,,,,,,,,,
-T30,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:55 PM,M,C,Rock,69,97,37,17.9,70,9,,"B,D",180,"B,S",TTC- 1:14,Ian,,17:59,M,C,58,125,Y,N,4.53,0,"B,S",73,,,,,,,,,,,,,
-T31,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,6:06 PM,M,C,TR,374,306,85,30.3,529,50,5,B,0,"B,S",TTC- 0:30,Ian,,18:11,M,C,61,171,N,N,5.69,0,"S,B",63,,,,,,,,,,,,,
-T32,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,6:12 PM,M,C,TR,76,100,69,31.2,243,59,36,"B,D",90 R,B,TTC-,Ian,,18:14,M,C,50,162,N,N,4.13,0,"S,B",115,,,,,,,,,,,,,
-PL1,Carrie ,Ayanah,3/28/23,,28.2,28.2,5:33 PM,M,C,TR,1802,250,193,29.7,297,30,120,S,90 R,,Went into hole,,,,,,,,,,,,,,,,,,,,,,,,,,
-PL2,Carrie,Ayanah,3/28/23,,28.2,28.2,5:53 PM,M,C,TR,949,189,81,28.1,273,30,123,S,90 L,"S, B",,Carrie,Michael,,M,C,51,126,N,N,3.38,0,"B,S,D",161,12.389,Carrie,12.857,Michael,25.424,Ayanah,25.002,Michael,117.9,Cara,123.7,Chelsea,
-PL3,Carrie,Ayanah,4/4/23,"Sunny, clear",28.9,27.2,4:15 PM,M,C,TR,486,143,47,36,484,38,73,S,90 R,,Female nearby,Carrie,,,,,,,,,,,,,,,,,,,,,,,,,
-PL4,Carrie,Ayanah,4/4/23,"Sunny, clear",28.9,27.2,4:28 PM,F,DB,TR,236,164,22,29.5,352,22,19,S,0,NR,,Carrie,Gaby,16:29,F,B,45,120,N,N,1.89,0,B,27,12.312,Carrie,12.279,Michael,20.793,Gabriel,20.077,Michael,12.4,Jon,11.004,Cara,
-PL5,Carrie,Ayanah,4/4/23,"Sunny, clear",,,,,,,,,,,,,,,,,Maybe Distichus,Carrie,,,,,,,,,,,,,,,,,,,,,,,,,
-PL6,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:40 PM,M,C,TR,468,158,19,31.2,229,106,49,S,90 R,NR,Jumped into bush,Gaby,Michael,16:41,M,C,56.2,153,Y,Y,4.72,0,"S,B",56,14.778,Carrie,15.384,Michael,25.616,Gabriel,24.62,Michael,103.8,Jon,102.017,Cara,
-PL7,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:45 PM,M,C,Trash can,525,222,2,32.1,502,46,54,S,90 R,B,Hid in trash can,Gaby,Lisette,16:45,M,C,63,187,N,N,7.23,0,"S,B",36,17.669,Carrie,16.751,Michael,28.867,Ayanah,28.503,Michael,189.6,Jon,214.909,Cara,
-PL8,Carrie ,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:50 PM,F,D ,G,402,88,16,29.6,785,51,11,S,0,NR,"Let us get close, moved down",Maria,Lisette,16:51,F,D,43,101,Y,N,1.84,0,S,103,12.02,Carrie,11.778,Michael,18.887,Gabriel,19.538,Michael,14.5,Jon,15.79,Cara,
-PL9,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:56 PM,M,C,TR,1223,109,55,34.2,274,48,20,PU,0,"B,S",Wagged tail,Gaby,Chelsea,16:58,M,C,59,167,N,N,5.79,0,"B,DE,D",79,15.57,Carrie,14.153,Cara,24.034,Ayanah,22.874,Michael,231.9,Jon,265.081,Cara,
-PL10,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:00 PM,F,DB,TR,428,202,5,30.9,762,44,10,S,90 R,"B,S,D",Ran all around tree,Michael ,Chelsea,17:10,F,D,46,114,Y,N,2.47,0,S,87,13.602,Carrie,12.866,Cara,20.131,Gabriel,20.595,Michael,29.1,Jon,25.276,Cara,
-PL11,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:07 PM,M,C,G,397,10,4,27,123,0,,S,180,S,Looked up then went into hole,Chelsea,Michael,17:10,M,C,51,156,N,N,4.85,0,D,131,15.55,Gaby,15.979,Cara,27.961,Ayanah,27.33,Michael,166.7,Jon,151.089,Cara,
-PL12,Bryan,Gaby,4/4/23,"Sunny, clear",28.9,27.2,5:16 PM,M,C,G,462,27,94,30.2,154,0,,S,90 R,"S,B",Ran into grass,Michael ,Chelsea,17:17,M,C,51,130,Y,N,4.06,0,"S, B",105,15.465,Gaby,15.105,Cara,24.007,Gabriel,23.643,Michael,126.4,Jon,129.111,Cara,
-PL13,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:20 PM,F,B,Light Post,750,46,20,34.4,66,22,30,S,90 R,,No catch,,,,,,,,,,,,,,,,,,,,,,,,,,
-PL14,Bryan,Gaby,4/4/23,"Sunny, clear",28.9,27.2,5:28 PM,F,DB,Fence Post,307,174,4,30.5,420,28,7,S,0,"S, B",,Chelsea,Gaby,17:29,F,DB,39,109,Y,N,1.62,0,"S,B",83,11.015,Gaby,10.976,Cara,17.402,Ayanah,,,12.6,Jon,12.803, Cara,
-PL15,Gabriel ,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:38 PM,F,D,W,450,190,2,29.4,490,67,18,S,90 L,NR,On wall,Gabriel,Maria,17:34,F,DB,44,124,N,N,2.13,0,"B, S",156,13.762,Gaby,13.537,Cara,21.215,Gabriel,,,27.3,Jon,32.084,Cara,
-PL16,Bryan,Ayanah,4/4/23,"Sunny, clear",28.9,27.2,5:40 PM,F,B,W,432,109,49,29.4,100,49,18,PU,90 L,NR,Red head on wall,,,,,,,,,,,,,,,,,,,,,,,,,,
-PL17,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,6:01 PM,F,B,Trash can,492,79,17,31.2,112,0,,S,90 R,NR,Went into trash can,Michael,Maria,18:05,F,B,40,90,N,N,1.62,0,"B,S",133,11.157,Gaby,11.238,Cara,18.386,Ayanah,,,17.7,Jon,15.924,Cara,
-PL18,Bryan,Michael,4/4/23,"Sunny, clear",28.9,27.2,6:09 PM,F,B,G,124,17,10,27.4,0,0,,S,90 R,S,Red head,Maria,Gaby,18:10,F,B,45,120,N,N,2.01,0,S,123,13.662,Gaby,12.236,Cara,21.299,Gabriel,,,20.2,Jon,19.493,Cara,
-PL19,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,6:19 PM,F,DB,TR,238,150,10,31.8,329,35,10,S,0 D,"S, B","Red head, Ran up tree",Nicki,Michael,18:25,F,DB,44,127,N,N,1.98,0,S,62,12.627,Gaby,12.457,Cara,20.101,Ayanah,,,20.4,Jon,22.983,Cara,
-PL20,Carrie ,Maria,18-Apr,Sunny ,26.2,25.3,4:38 PM,F,DB,Trash,402,141,25,32,4,40,520,S,0 D,B,1:07  caught,Carrie,,16:40,F,DB,47,127,Y,N,2.52,0,"B, S",97,12.053,Carrie,12.596,Cara,18.463,Cara,,,17.479,Cara,,,
-PL21,Carrie,Maria,4/18/23,Sunny,26.2,25.3,4:49 PM,F,DB,TR,903,82,2,32.5,480,20,30,S,90 L,S,26.8 s caught ,Carrie,,16:50,F,DB,42,114,N,N,1.41,0,S,114,10.823,Carrie,10.499,Cara,16.415,Cara,,,16.167,Cara,,,
-PL22,Carrie,Maria,4/18/23,Sunny,26.2,25.3,4:58 PM,F,DB,TR,549,67,125,38.2,530,12,70,"DE, PU",90 L,"B, S",1:47  caught ,Carrie,,17:01,F,DB,40,113,N,N,1.46,0,"D, B, S",54,12.047,Carrie,11.887,Cara,16.918,Cara,,,16.73,Cara,,,
-PL23,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:08 PM,F,DB,TR,720,130,28,30.1,510,2,10,S,90 R,S,37.9 s caught,Carrie,,17:10,F,DB,38,101,N,N,1.21,0,S,101,10.139,Carrie,10.256,Cara,15.365,Cara,,,7.866,Cara,,,
-PL24,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:15 PM,F,D,TR,110,112,70,27.2,225,98,140,S,0 D,"B, S ",8.7 s caught,Carrie,,17:17,F,D,45,128,N,N,2.01,0,"S, B",159,12.197,Carrie,12.581,Cara,19.267,Cara,,,14.97,Cara,,,
-PL25,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:22 PM,M,C,TR,443,1,30,28.3,570,8,40,S,180 UP,"B, S",45 s caught,Carrie,,17:26,M,C,51,130,N,N,3.14,0,"S, B",71,13.902,Carrie,14.488,Cara,22.045,Cara,,,166.723,Cara,,,
-PL26,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:24 PM,F,DB,TR,180,34,20,32.4,720,38,30,S,0 D,"B, S",1:30 caught,Jon,,17:24,F,DB,41,115,N,N,1.79,0,S,103,10.721,Cara,11.165,Michael,16.272,Cara,,,9.15,Cara,,,
-PL27,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:39 PM,F,DB,TR,106,252,133,27.9,827,35,30,PU,180  UP,"S, D",32.3 s caught,Jon,,17:41,F,B,42,100,Y,N,1.45,0,S,105,10.673,Cara,9.492,Michael,15.713,Cara,,,16.418,Cara,,,
-PL28,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:54 PM,F,C,Trash   ,516,113,18,30.8,116,58,520,S,180 UP,S,18.8 s caught,Jon,,17:56,F,C,41,93,Y,N,1.69,0,"D, S, B",116,10.574,Cara,10.241,Michael,17.282,Cara,,,9.566,Cara,,,
-PL29,Carrie,Maria,4/18/23,Sunny,26.2,25.3,6:09 PM,F,DB,TR,173,100,33,25.4,608,15,30,PU,180,"B, S",1:42.9 caught,Jon,,18:11,F,DB,45,109,N,N,1.81,0,"S, B",118,10.892,Cara,10.621,Michael,18.532,Cara,,,13.521,Cara,,,
-PL30,Jon,,4/28/23,Sun/cloudy,29.7,32.5,10:38 AM,F,B,TR,468,123,25,24.9,245,70,140,S,0,NR,40.75s,Jon,,10:39,F,DB,44,96,Y,Y,1.79,0,"S, B",118,,,,,,,,,,,,,
-PL31,Jon,,4/28/23,Sun/cloudy,29.7,32.5,10:52 AM,F,DB,shrub,708,127,6,31.2,821,43,50,S,0,"B, S, D",28.02s,Jon,,10:54,F,DB,41,95,Y,N,1.78,0,B,91,,,,,,,,,,,,,
-PL32,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:05 AM,M,C,Log,170,165,37,24.8,25,16,160,S,0,S,50.04s,Jon,,11:08,M,C,41,100,N,N,1.43,0,"D, S",115,,,,,,,,,,,,,
-PL33,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:20 AM,F,B,G,79,93,29,24.6,23,0,,S,180,"B, S",57.34s,Jon,,11:23,F,DB,40,46,Y,N,1.12,0,B,86,,,,,,,,,,,,,
-PL34,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:27 AM,F,C,Shrub,307,33,11,32.5,105,35,110,S,0,NR,40.37s,Jon,,11:30,F,C,46,127,N,N,1.99,0,"C, B",139,,,,,,,,,,,,,
-PL35,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:37 AM,M,C,tree,111,68,8,28.6,50,92,120,S,0,"B, D",66.68s,Jon,,11:35,M,C,38,105,N,N,1.04,0,"B, S, D",70,,,,,,,,,,,,,
-PL36,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:44 AM,F,DB,palm frond,317,55,72,30.9,1043,0,,S,180,NR,47.01s,Jon,,11:46,F,D,43,115,N,N,1.78,0,"B, S",135,,,,,,,,,,,,,
-PL37,Jon,,5/2/23,Sunny,25.4,32.5,11:05 AM,M,C,Tree,416,127,12,30.1,157,88,70,S,0,"B, S",26.02s,Jon,,11:07,M,C,56,149,N,N,4.61,0,"B, S, D",90,,,,,,,,,,,,,
-PL38,Jon,,5/2/23,Sunny,25.4,32.5,11:15 AM,M,C,Shrub,313,74,34,33.6,369,95,20,S,0,"B, S, D",55.26s,Jon,,11:17,M,C,53,151,Y,N,3.42,0,"B, S",168,,,,,,,,,,,,,
-PL39,Jon,,5/2/23,Sunny,25.4,32.5,11:38 AM,F,DB,tree,230,75,95,29.3,72,103,290,S,0,S,98.98s,Jon,,11:41,F,DB,42,87,Y,N,1.52,0,"B, S",172,,,,,,,,,,,,,
-PL40,Jon,,5/2/23,Sunny,25.4,32.5,11:47 AM,F,DB,Log,114,153,45,25.2,160,24,220,S,90R,S,57.96s,Jon,,11:50,F,D,38,113,N,N,1.19,0,S,111,,,,,,,,,,,,,
-PL41,Jon,,5/2/23,Sunny,25.4,32.5,12:00 PM,F,DB,Fern,29,78,15,30.3,75,43,,S,90R,S,15s,Jon,,12:04,F,DB,44,91,Y,N,1.74,0,"B, S",157,,,,,,,,,,,,,
-PL42,Jon,,5/2/23,Sunny,25.4,32.5,12:10 PM,F,DB,B,125,159,23,22.9,60,10,15,S,90L,S,44.96s,Jon,,12:14,F,DB,45,80,Y,Y,1.75,0,S,170,,,,,,,,,,,,,
-PL43,Jon,,5/2/23,Sunny,25.4,32.5,12:21 PM,F,DB,Shrub,130,210,20,25.2,60,28,15,S,0,NR,105.26s,Jon,,12:24,F,B,46,115,N,N,1.76,0,"S, B",137,,,,,,,,,,,,,
-PL44,Jon,,5/2/23,Sunny,25.4,32.5,12:34 PM,F,DB,Shrub,46,115,16,32.3,85,32,25,S,0,S,23.55s,Jon,,12:35,F,DB,42,105,Y,Y,1.92,0,"B, S",170,,,,,,,,,,,,,
-PL45,Jon,,5/2/23,Sunny,25.4,32.5,12:39 PM,F,DB,Log,124,119,23,33.2,35,17,40,S,90R,S,9.33s,Jon,,12:41,F,DB,43,116,N,N,1.65,0,S,150,,,,,,,,,,,,,
-PL46,Jon,,5/2/23,Sunny,25.4,32.5,12:49 PM,F,B,Ground,150,154,15,21.9,105,0,,"S, B",180,NR,135.44s,Jon,,12:51,F,B,46,126,N,N,2.14,0,"B,S,D",184,,,,,,,,,,,,,
-PL47,Jon,,5/2/23,Sunny,25.4,32.5,1:04 PM,F,DB,Tree,75,87,42,25.4,75,93,15,S,180,"S, B, D",13.89s,Jon,,13:05,F,DB,41,116,N,N,1.6,0,"B,S",168,,,,,,,,,,,,,
-PL48,Jon,,5/2/23,Sunny,25.4,32.5,1:17 PM,M,C,Ground,100,144,15,32.4,50,0,,S,90R,"S, B",42.31s,Jon,,13:20,M,C,54,164,N,N,2.82,0,NR,139,,,,,,,,,,,,,
-PL49,Jon,,5/2/23,Sunny,25.4,32.5,1:24 PM,F,DB,Ground,175,102,10,22.9,55,0,,S,90R,NR,46.49s,Jon,,13:26,F,DB,45,117,N,N,1.86,0,NR,155,,,,,,,,,,,,,
-PL50,Jon,,5/3/23,Sunny,27.6,31.6,12:29 PM,F,C,Shrub,107,128,34,26.7,124,48,25,S,0,"B, D, S",42.78s,Jon,,12:31,F,C,45,122,N,N,1.81,0,S,88,,,,,,,,,,,,,
-PL51,Jon,,5/3/23,Sunny,27.6,31.6,1:01 PM,M,C,Tree,141,170,110,24.7,245,106,100,S,0,"B, S",72.89s,Jon,,13:07,M,C,57,146,N,N,4.28,0,"B,S,D",121,,,,,,,,,,,,,
-PL52,Jon,,5/3/23,Sunny,27.6,31.6,1:08 PM,F,B,Pole,984,52,10,33.4,102,62,50,S,0,S,18.44s,Jon,,13:08,F,B,46,104,Y,Y,2.11,0,"B,S,D",163,,,,,,,,,,,,,
-PL53,Jon,,5/3/23,Sunny,27.6,31.6,1:17 PM,F,C,Trashcan,493,92,16,30.6,78,59,460,S,180,S,51.27s,Jon,,13:18,F,C,45,123,N,N,2.06,0,S,212,,,,,,,,,,,,,
-PL54,Jon,,5/3/23,Sunny,27.6,31.6,1:49 PM,F,C,Shurb,164,66,5,28.4,84,35,10,S,0,S,32.91s,Jon,,13:57,F,C,42,101,Y,Y,1.82,0,S,79,,,,,,,,,,,,,
-PL55,Jon,,5/3/23,Sunny,27.6,31.6,2:00 PM,F,C,Shrub,849,132,15,30.4,905,34,50,S,0,S,21.15s,Jon,,14:01,F,C,42,114,N,N,1.54,0,"B,S",91,,,,,,,,,,,,,
-PL56,Jon,,5/3/23,Sunny,27.6,31.6,2:05 PM,F,C,Cypress,1145,43,10,30.8,304,52,70,S,0,S,16.81s,Jon,,14:06,M,C,43,124,N,N,1.59,0,S,188,,,,,,,,,,,,,
-PL57,Jon,,5/3/23,Sunny,27.6,31.6,2:15 PM,F,D,Shrub,645,129,2,31.1,689,66,20,S,180,S,74.94s,Jon,,14:17,F,D,44,102,Y,Y,1.71,0,S,260,,,,,,,,,,,,,
-PL58,Jon,,5/3/23,Sunny,27.6,31.6,2:25 PM,F,C,Shrub,309,221,25,28.6,980,65,30,S,0,S,67.99s,Jon,,14:26,F,C,40,112,N,N,1.35,0,S,65,,,,,,,,,,,,,
-PL59,Jon,,5/3/23,Sunny,27.6,31.6,2:36 PM,F,C,Shrub,419,101,27,30.7,819,66,20,PU,0,S,28.36s,Jon,,14:38,F,C,42,52,Y,N,1.51,0,"B,S",105,,,,,,,,,,,,,
+﻿ID,Entered By (capture data),Checked By (capture data),Date,Weather,Starting Ambient Temperature,Ending Ambient Temperature,Time,Sex,Field Morph,Perch Type,Starting Distance (cm),FID (cm),Distance Fled (cm),Perch Temperature,Trail Distance (cm),Perch Height (cm),Perch Diameter (mm),Approach Behavior,Orientation,Catch Behavior,CaptureNotes,Entered By (Measurements),Checked By (Measurements),Start Time,Sex,Table Morph,SVL (mm),Total Length (mm),Broken Tail,Regrowth Tail,Mass (g),Number Ectoparasites,Handling Behavior,Endurance (s),Forelimb Length (mm) (person 1),Forelimb Measured by (person 1),Forelimb Length (mm) (person 2),Forelimb measured by (person 2),Hindlimb Length (mm) (person 1),Hindlimb Measured By (person 1),hindlimb length (person 2),hindlimb measured by (person 2),Dewlap Area (mm2) (person 1),Dewlap Measured By (person 1),Dewlap Area (mm2) (person 2),Dewlap Measured By (person 2),Measurement notes,TTC
+T1,Nicki,Jon,3/28/23,,,,5:44 PM,M,C,TR,361,73,23,26.7,86,92,29,S,180,"B,S,CC","palm tree, 8 min collection time",Carrie,Jon,,M,C,58,114,1,1,3.36,0,"B, S",79,15.297,Carrie,15.584,Ian,25.659,Gabriel,24.598,Ian,84.6,Jon,90.23,Chelsea,,
+T2,Jon,Carrie,3/28/23,,,,5:55 PM,M,C,TR,272,30,32,28.3,67,47,19,S,180,"B, S","Palm tree, 2 anoles nearby, 1/4 tail regrown",Jon,Gaby,,M,C,60,125,1,1,6.09,0,"B, S, D",143,13.459,Carrie,13.779,Ian,25.933,Ayanah,27.417,Ian,186.9,Jon,179.65,Chelsea,,
+T3,Nicki,Carrie,3/28/23,,,,6:00 PM,M,C,TR,533,155,110,29,330,120,50,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T4,Nicki,Carrie,4/4/23,sunny,26.4,27.2,4:16 PM,M,C,TR,1190,90,28,31.3,154,128,100,S,0,"S, B, D",lost during capture,Jon,Michael,16:29,M,C,57,87,1,0,3.63,0,"B, S, DE, D",69,15.419,Carrie,15.685,Ian,24.3,Gabriel,23.971,Ian,181.5,Jon,194.4,Chelsea,,
+T5,Nicki,Maria,4/4/23,sunny,26.4,27.2,4:27 PM,F,B,TR,754,107,22,33.1,122,154,60,S,0,NR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T6,Nicki,Maria,4/4/23,sunny,26.4,27.2,4:41 PM,M,C,TR,890,133,23,31.5,92,121,70,PU,0,NR,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T7,Nicki,Isabella,4/4/23,sunny,26.4,27.2,4:57 PM,M,C,TR,957,176,65,29.2,126,57,70,S,0,"S,D",,Jon,Gaby,16:57,M,C,58,88,1,0,5.14,0,"B, S",80,16.832,Carrie,17.673,Ian,29.909,Gaby,30.116,Ian,186.7,Jon,173,Chelsea,,
+T8,Nicki,Isabella,4/4/23,sunny,26.4,27.2,5:00 PM,M,C,TR,1530,213,48,30,381,114,110,DE,0,S ,may have caught the wrong anole,Jon,Gaby,17:16,M,C,59,132,1,0,5.03,0,"B, S",136,16.662,Nicki,16.981,Carrie,27.951,Gaby,27.039,Ian,190,Jon,211.45,Chelsea,,
+T9,Nicki,Isabella,4/4/23,sunny,26.4,27.2,5:16 PM,M,C,TR,316,256,125,27.6,200,90,558,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T10,Nicki,Isabella,4/4/23,sunny,26.4,27.2,5:22 PM,M,C,TR,653,142,40,31,260,125,100,DE,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T11,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:34 PM,M,C,TR,1122,70,234,25.1,250,74,70,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T12,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:37 PM,M,C,TR,540,10,100,29.1,260,87,830,"DE, HB",0,NR,,Jon,Michael,17:41,M,C,58,175,0,0,4.48,0,"B, S",171,16.409,Nicki,16.53,Carrie,23.684,Gaby,25.484,Ian,242.4,Jon,235.5,Chelsea,,
+T13,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:42 PM,F,C,TR,287,34,19,27.9,168,37,600,S,0,"B, D",,Jon,Michael,17:44,F,C,45,71,1,1,1.78,0,"S, D",202,12.655,Nicki,12.761,Carrie,18.632,Gaby,20.002,Ian,20.9,Jon,16.95,Chelsea,,
+T14,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,5:53 PM,F,B,TR,293,84,45,25.5,160,60,750,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T15,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,6:00 PM,M,C,G,770,109,49,38.3,0,0,,DE,90 L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T16,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,6:12 PM,M,C,TR,1184,90,105,26,200,52,240,S,0,B,,Nicki,Gaby,18:15,M,C,51,141,0,0,4.23,0,"B,S",191,17.039,Nicki,17.772,Carrie,26.036,Gaby,25.705,Ian,170.7,Jon,167.86,Chelsea,,
+T17,Isabella,Gabriel,4/4/23,sunny,26.4,27.2,6:17 PM,M,C,TR,352,72,38,28.3,240,63,290,S,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T18,Ayanah,Maria,4/18/23,partly cloudy,26.2,27,4:37 PM,F,B,TR,737,162,46,31.3,356,27,19,NR,180,None,TTC- 1:06,Ian,,16:42,F,D,46,95,1,0,2.28,0,"B,S",217,11.773,Ian,11.735,Cara,18.916,Ian,18.473,Cara,14.17,Jon,16.335,Cara,,66
+T19,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,4:44 PM,M,C,TR,457,33,121,23.6,604,41,2,B,0,"B,S",TTC- 0:15,Ian,,16:46,M,C,53,155,0,0,3.49,0,"B,S",133,14.617,Ian,14.821,Cara,22.075,Ian,21.319,Cara,117.22,Jon,115.619,Cara,,15
+T20,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,4:51 PM,M,C,Rock,249,63,70,25,995,14,,B,90 R,"S,B,D",TTC- 0:45,Ian,,16:52,M,C,52,104,1,0,2.89,0,"D,B,S,DE",67,16.018,Ian,15.202,Cara,23.16,Ian,22.605,Cara,129.31,Jon,131.641,Cara,,45
+T21,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,4:56 PM,F,DB,Log,353,58,3,27.4,1127,15,15,B,90 L,"S,B",TTC- 0:44,Ian,,17:00,F,DB,46,104,0,0,2.26,0,"B,S",151,13.186,Ian,12.643,Cara,20.34,Ian,19.682,Cara,10.56,Jon,23.158,Cara,Missing left hindleg below knee,44
+T22,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:01 PM,F,B,G,165,95,56,24.1,0,0,,NR,180,,TTC- ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T23,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:04 PM,F,B,TR,235,51,47,20.9,0,31,39,NR,90 L,"B,S",TTC- 0:35,Ian,,17:07,F,DB,41,112,0,0,1.56,0,"B,S",75,11.097,Ian,10.849,Cara,17.405,Ian,17.374,Cara,10.62,Jon,12.251,Cara,,35
+T24,Ayanah,Gabriel,18-Apr,partly cloudy,26.2,27,5:10 PM,F,B,G,165,56,68,21.8,0,0,,NR,90 L,"B,S",TTC- ,Ian,,17:13,F,DB,48,107,0,0,2.36,0,"B,S",149,13.361,Ian,12.965,Cara,19.693,Ian,19.233,Cara,21.53,Jon,24.37,Cara,,
+T25,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:15 PM,F,DB,G,216,117,29,20.8,0,0,,NR,180,"B,S",TTC- 0:38,Ian,,17:19,F,C,39,108,0,0,3.14,0,"S,B",71,11.313,Ian,10.965,Cara,15.735,Ian,15.902,Cara,9.44,Jon,10.54,Cara,,38
+T26,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:22 PM,F,DB,Rock,122,70,39,18.7,195,18,,B,90 R,"B,S",TTC- 0:20,Ian,,17:24,F,DB,41,115,0,0,1.79,0,S,103,11.225,Ian,11.102,Cara,18.416,Ian,17.659,Cara,18.71,Jon,18.708,Cara,,20
+T27,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:32 PM,F,B,TR,94,84,34,23.9,15,37,9,NR,90 L,"B,S",TTC- 1:58,Ian,,17:35,F,B,42,119,0,0,2.05,0,"S,B,D",52,11.448,Ian,12.582,Cara,17.99,Ian,17.899,Cara,19.69,Jon,20.278,Cara,,118
+T28,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:37 PM,F,B,Fern,210,96,31,21.1,0,26,1,B,180,,TTC- ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+T29,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:44 PM,M,C,TR,124,61,104,22.4,0,36,5,NR,0,B,TTC- 2:05,Ian,,18:12,M,C,46,119,1,0,2.24,0,"B,S",83,13.724,Ian,14.389,Cara,21.928,Ian,20.459,Cara,75.73,Jon,79.072,Cara,,125
+T30,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,5:55 PM,M,C,Rock,69,97,37,17.9,70,9,,"B,D",180,"B,S",TTC- 1:14,Ian,,17:59,M,C,58,125,1,0,4.53,0,"B,S",73,16.395,Ian,16.615,Cara,29.085,Ian,25.84,Cara,161.77,Jon,162.734,Cara,,74
+T31,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,6:06 PM,M,C,TR,374,306,85,30.3,529,50,5,B,0,"B,S",TTC- 0:30,Ian,,18:11,M,C,61,171,0,0,5.69,0,"S,B",63,17.657,Ian,18.198,Cara,27.691,Ian,26.13,Cara,217.8,Jon,213.108,Cara,,30
+T32,Ayanah,Gabriel,4/18/23,partly cloudy,26.2,27,6:12 PM,M,C,TR,76,100,69,31.2,243,59,36,"B,D",90 R,B,TTC-,Ian,,18:14,M,C,50,162,0,0,4.13,0,"S,B",115,14.933,Ian,14.906,Cara,25.793,Ian,27.415,Cara,168.74,Jon,171.643,Cara,,
+PL1,Carrie ,Ayanah,3/28/23,,28.2,28.2,5:33 PM,M,C,TR,1802,250,193,29.7,297,30,120,S,90 R,,Went into hole,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PL2,Carrie,Ayanah,3/28/23,,28.2,28.2,5:53 PM,M,C,TR,949,189,81,28.1,273,30,123,S,90 L,"S, B",,Carrie,Michael,,M,C,51,126,0,0,3.38,0,"B,S,D",161,12.389,Carrie,12.857,Michael,25.424,Ayanah,25.002,Michael,117.9,Cara,123.7,Chelsea,,
+PL3,Carrie,Ayanah,4/4/23,"Sunny, clear",28.9,27.2,4:15 PM,M,C,TR,486,143,47,36,484,38,73,S,90 R,,Female nearby,Carrie,,,,,,,,,,,,,,,,,,,,,,,,,,
+PL4,Carrie,Ayanah,4/4/23,"Sunny, clear",28.9,27.2,4:28 PM,F,DB,TR,236,164,22,29.5,352,22,19,S,0,NR,,Carrie,Gaby,16:29,F,B,45,120,0,0,1.89,0,B,27,12.312,Carrie,12.279,Michael,20.793,Gabriel,20.077,Michael,12.4,Jon,11.004,Cara,,
+PL5,Carrie,Ayanah,4/4/23,"Sunny, clear",,,,,,,,,,,,,,,,,Maybe Distichus,Carrie,,,,,,,,,,,,,,,,,,,,,,,,,,
+PL6,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:40 PM,M,C,TR,468,158,19,31.2,229,106,49,S,90 R,NR,Jumped into bush,Gaby,Michael,16:41,M,C,56.2,153,1,1,4.72,0,"S,B",56,14.778,Carrie,15.384,Michael,25.616,Gabriel,24.62,Michael,103.8,Jon,102.017,Cara,,
+PL7,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:45 PM,M,C,Trash can,525,222,2,32.1,502,46,54,S,90 R,B,Hid in trash can,Gaby,Lisette,16:45,M,C,63,187,0,0,7.23,0,"S,B",36,17.669,Carrie,16.751,Michael,28.867,Ayanah,28.503,Michael,189.6,Jon,214.909,Cara,,
+PL8,Carrie ,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:50 PM,F,D,G,402,88,16,29.6,785,51,11,S,0,NR,"Let us get close, moved down",Maria,Lisette,16:51,F,D,43,101,1,0,1.84,0,S,103,12.02,Carrie,11.778,Michael,18.887,Gabriel,19.538,Michael,14.5,Jon,15.79,Cara,,
+PL9,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,4:56 PM,M,C,TR,1223,109,55,34.2,274,48,20,PU,0,"B,S",Wagged tail,Gaby,Chelsea,16:58,M,C,59,167,0,0,5.79,0,"B,DE,D",79,15.57,Carrie,14.153,Cara,24.034,Ayanah,22.874,Michael,231.9,Jon,265.081,Cara,,
+PL10,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:00 PM,F,DB,TR,428,202,5,30.9,762,44,10,S,90 R,"B,S,D",Ran all around tree,Michael ,Chelsea,17:10,F,D,46,114,1,0,2.47,0,S,87,13.602,Carrie,12.866,Cara,20.131,Gabriel,20.595,Michael,29.1,Jon,25.276,Cara,,
+PL11,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:07 PM,M,C,G,397,10,4,27,123,0,,S,180,S,Looked up then went into hole,Chelsea,Michael,17:10,M,C,51,156,0,0,4.85,0,D,131,15.55,Gaby,15.979,Cara,27.961,Ayanah,27.33,Michael,166.7,Jon,151.089,Cara,,
+PL12,Bryan,Gaby,4/4/23,"Sunny, clear",28.9,27.2,5:16 PM,M,C,G,462,27,94,30.2,154,0,,S,90 R,"S,B",Ran into grass,Michael ,Chelsea,17:17,M,C,51,130,1,0,4.06,0,"S, B",105,15.465,Gaby,15.105,Cara,24.007,Gabriel,23.643,Michael,126.4,Jon,129.111,Cara,,
+PL13,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:20 PM,F,B,Light Post,750,46,20,34.4,66,22,30,S,90 R,,No catch,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PL14,Bryan,Gaby,4/4/23,"Sunny, clear",28.9,27.2,5:28 PM,F,DB,Fence Post,307,174,4,30.5,420,28,7,S,0,"S, B",,Chelsea,Gaby,17:29,F,DB,39,109,1,0,1.62,0,"S,B",83,11.015,Gaby,10.976,Cara,17.402,Ayanah,17.376,Ian,12.6,Jon,12.803, Cara,,
+PL15,Gabriel ,Bryan,4/4/23,"Sunny, clear",28.9,27.2,5:38 PM,F,D,W,450,190,2,29.4,490,67,18,S,90 L,NR,On wall,Gabriel,Maria,17:34,F,DB,44,124,0,0,2.13,0,"B, S",156,13.762,Gaby,13.537,Cara,21.215,Gabriel,21.079,Ian,27.3,Jon,32.084,Cara,,
+PL16,Bryan,Ayanah,4/4/23,"Sunny, clear",28.9,27.2,5:40 PM,F,B,W,432,109,49,29.4,100,49,18,PU,90 L,NR,Red head on wall,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PL17,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,6:01 PM,F,B,Trash can,492,79,17,31.2,112,0,,S,90 R,NR,Went into trash can,Michael,Maria,18:05,F,B,40,90,0,0,1.62,0,"B,S",133,11.157,Gaby,11.238,Cara,18.386,Ayanah,18.204,Ian,17.7,Jon,15.924,Cara,,
+PL18,Bryan,Michael,4/4/23,"Sunny, clear",28.9,27.2,6:09 PM,F,B,G,124,17,10,27.4,0,0,,S,90 R,S,Red head,Maria,Gaby,18:10,F,B,45,120,0,0,2.01,0,S,123,13.662,Gaby,12.236,Cara,21.299,Gabriel,20.221,Ian,20.2,Jon,19.493,Cara,,
+PL19,Carrie,Bryan,4/4/23,"Sunny, clear",28.9,27.2,6:19 PM,F,DB,TR,238,150,10,31.8,329,35,10,S,0 D,"S, B","Red head, Ran up tree",Nicki,Michael,18:25,F,DB,44,127,0,0,1.98,0,S,62,12.627,Gaby,12.457,Cara,20.101,Ayanah,20.963,Ian,20.4,Jon,22.983,Cara,,
+PL20,Carrie ,Maria,18-Apr,Sunny ,26.2,25.3,4:38 PM,F,DB,Trash,402,141,25,32,4,40,520,S,0 D,B,1:07  caught,Carrie,,16:40,F,DB,47,127,1,0,2.52,0,"B, S",97,12.053,Carrie,12.596,Cara,18.463,Cara,19.078,Ian,17.479,Cara,12.33,Jon,,67
+PL21,Carrie,Maria,4/18/23,Sunny,26.2,25.3,4:49 PM,F,DB,TR,903,82,2,32.5,480,20,30,S,90 L,S,26.8 s caught ,Carrie,,16:50,F,DB,42,114,0,0,1.41,0,S,114,10.823,Carrie,10.499,Cara,16.415,Cara,17.698,Ian,16.167,Cara,11.62,Jon,,27
+PL22,Carrie,Maria,4/18/23,Sunny,26.2,25.3,4:58 PM,F,DB,TR,549,67,125,38.2,530,12,70,"DE, PU",90 L,"B, S",1:47  caught ,Carrie,,17:01,F,DB,40,113,0,0,1.46,0,"D, B, S",54,12.047,Carrie,11.887,Cara,16.918,Cara,17.248,Ian,16.73,Cara,14.33,Jon,,107
+PL23,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:08 PM,F,DB,TR,720,130,28,30.1,510,2,10,S,90 R,S,37.9 s caught,Carrie,,17:10,F,DB,38,101,0,0,1.21,0,S,101,10.139,Carrie,10.256,Cara,15.365,Cara,16.038,Ian,7.866,Cara,5.61,Jon,,38
+PL24,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:15 PM,F,D,TR,110,112,70,27.2,225,98,140,S,0 D,"B, S ",8.7 s caught,Carrie,,17:17,F,D,45,128,0,0,2.01,0,"S, B",159,12.197,Carrie,12.581,Cara,19.267,Cara,20.149,Ian,14.97,Cara,14.34,Jon,,9
+PL25,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:22 PM,M,C,TR,443,1,30,28.3,570,8,40,S,180 UP,"B, S",45 s caught,Carrie,,17:26,M,C,51,130,0,0,3.14,0,"S, B",71,13.902,Carrie,14.488,Cara,22.045,Cara,22.225,Ian,166.723,Cara,172.71,Jon,,45
+PL26,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:24 PM,F,DB,TR,180,34,20,32.4,720,38,30,S,0 D,"B, S",1:30 caught,Jon,,17:24,F,DB,41,115,0,0,1.79,0,S,103,10.721,Cara,11.165,Michael,16.272,Cara,15.589,Ian,9.15,Cara,8.86,Jon,,90
+PL27,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:39 PM,F,DB,TR,106,252,133,27.9,827,35,30,PU,180  UP,"S, D",32.3 s caught,Jon,,17:41,F,B,42,100,1,0,1.45,0,S,105,10.673,Cara,9.492,Michael,15.713,Cara,15.532,Ian,16.418,Cara,15.56,Jon,,32
+PL28,Carrie,Maria,4/18/23,Sunny,26.2,25.3,5:54 PM,F,C,Trash   ,516,113,18,30.8,116,58,520,S,180 UP,S,18.8 s caught,Jon,,17:56,F,C,41,93,1,0,1.69,0,"D, S, B",116,10.574,Cara,10.241,Michael,17.282,Cara,17.337,Ian,9.566,Cara,8.81,Jon,,19
+PL29,Carrie,Maria,4/18/23,Sunny,26.2,25.3,6:09 PM,F,DB,TR,173,100,33,25.4,608,15,30,PU,180,"B, S",1:42.9 caught,Jon,,18:11,F,DB,45,109,0,0,1.81,0,"S, B",118,10.892,Cara,10.621,Michael,18.532,Cara,17.397,Ian,13.521,Cara,12.7,Jon,,102
+PL30,Jon,,4/28/23,Sun/cloudy,29.7,32.5,10:38 AM,F,B,TR,468,123,25,24.9,245,70,140,S,0,NR,40.75s,Jon,,10:39,F,DB,44,96,1,1,1.79,0,"S, B",118,10.33,Ian,10.426,Cara,18.978,Ian,18.451,Cara,9.98,Jon,9.787,Cara,,41
+PL31,Jon,,4/28/23,Sun/cloudy,29.7,32.5,10:52 AM,F,DB,shrub,708,127,6,31.2,821,43,50,S,0,"B, S, D",28.02s,Jon,,10:54,F,DB,41,95,1,0,1.78,0,B,91,8.991,Ian,9.45,Cara,15.756,Ian,17.165,Cara,13.43,Jon,12.981,Cara,,28
+PL32,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:05 AM,M,C,Log,170,165,37,24.8,25,16,160,S,0,S,50.04s,Jon,,11:08,M,C,41,100,0,0,1.43,0,"D, S",115,11.853,Ian,12.3,Cara,18.608,Ian,18.89,Cara,50.83,Jon,49.601,Cara,,50
+PL33,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:20 AM,F,B,G,79,93,29,24.6,23,0,,S,180,"B, S",57.34s,Jon,,11:23,F,DB,40,46,1,0,1.12,0,B,86,12.089,Ian,12.014,Cara,18.676,Ian,18.724,Cara,16.13,Jon,18.804,Cara,,57
+PL34,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:27 AM,F,C,Shrub,307,33,11,32.5,105,35,110,S,0,NR,40.37s,Jon,,11:30,F,C,46,127,0,0,1.99,0,"C, B",139,12.381,Ian,12.615,Cara,18.83,Ian,18.879,Cara,23.16,Jon,26.167,Cara,,40
+PL35,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:37 AM,M,C,tree,111,68,8,28.6,50,92,120,S,0,"B, D",66.68s,Jon,,11:35,M,C,38,105,0,0,1.04,0,"B, S, D",70,12.577,Ian,12.806,Cara,17.489,Ian,17.171,Cara,35.28,Jon,37.41,Cara,,67
+PL36,Jon,,4/28/23,Sun/cloudy,29.7,32.5,11:44 AM,F,DB,palm frond,317,55,72,30.9,1043,0,,S,180,NR,47.01s,Jon,,11:46,F,D,43,115,0,0,1.78,0,"B, S",135,11.517,Ian,12.064,Cara,18.441,Ian,18.918,Cara,17.85,Jon,16.468,Cara,,47
+PL37,Jon,,5/2/23,Sunny,25.4,32.5,11:05 AM,M,C,Tree,416,127,12,30.1,157,88,70,S,0,"B, S",26.02s,Jon,,11:07,M,C,56,149,0,0,4.61,0,"B, S, D",90,16.497,Ian,15.854,Cara,26.866,Ian,24.913,Cara,144.67,Jon,137.271,Cara,,26
+PL38,Jon,,5/2/23,Sunny,25.4,32.5,11:15 AM,M,C,Shrub,313,74,34,33.6,369,95,20,S,0,"B, S, D",55.26s,Jon,,11:17,M,C,53,151,1,0,3.42,0,"B, S",168,15.899,Ian,16.27,Cara,23.242,Ian,23.12,Cara,147.22,Jon,144.074,Cara,,55
+PL39,Jon,,5/2/23,Sunny,25.4,32.5,11:38 AM,F,DB,tree,230,75,95,29.3,72,103,290,S,0,S,98.98s,Jon,,11:41,F,DB,42,87,1,0,1.52,0,"B, S",172,11.922,Ian,11.837,Cara,20.727,Ian,19.495,Cara,6.78,Jon,7.131,Cara,,99
+PL40,Jon,,5/2/23,Sunny,25.4,32.5,11:47 AM,F,DB,Log,114,153,45,25.2,160,24,220,S,90R,S,57.96s,Jon,,11:50,F,D,38,113,0,0,1.19,0,S,111,10.655,Ian,10.428,Cara,17.298,Ian,17.615,Cara,9.09,Jon,9.787,Cara,,58
+PL41,Jon,,5/2/23,Sunny,25.4,32.5,12:00 PM,F,DB,Fern,29,78,15,30.3,75,43,,S,90R,S,15s,Jon,,12:04,F,DB,44,91,1,0,1.74,0,"B, S",157,11.041,Ian,11.114,Cara,20.06,Ian,19.756,Cara,12.76,Jon,12.918,Cara,,15
+PL42,Jon,,5/2/23,Sunny,25.4,32.5,12:10 PM,F,DB,B,125,159,23,22.9,60,10,15,S,90L,S,44.96s,Jon,,12:14,F,DB,45,80,1,1,1.75,0,S,170,10.548,Ian,10.61,Cara,15.822,Ian,15.584,Cara,21.65,Jon,21.19,Cara,,45
+PL43,Jon,,5/2/23,Sunny,25.4,32.5,12:21 PM,F,DB,Shrub,130,210,20,25.2,60,28,15,S,0,NR,105.26s,Jon,,12:24,F,B,46,115,0,0,1.76,0,"S, B",137,12.404,Ian,12.168,Cara,19.1,Ian,19.465,Cara,12.43,Jon,13.251,Cara,,105
+PL44,Jon,,5/2/23,Sunny,25.4,32.5,12:34 PM,F,DB,Shrub,46,115,16,32.3,85,32,25,S,0,S,23.55s,Jon,,12:35,F,DB,42,105,1,1,1.92,0,"B, S",170,11.303,Ian,11.556,Cara,18.398,Ian,18.89,Cara,10.68,Jon,10.653,Cara,,24
+PL45,Jon,,5/2/23,Sunny,25.4,32.5,12:39 PM,F,DB,Log,124,119,23,33.2,35,17,40,S,90R,S,9.33s,Jon,,12:41,F,DB,43,116,0,0,1.65,0,S,150,12.304,Ian,12.026,Cara,18.714,Ian,18.894,Cara,11.3,Jon,11.034,Cara,,9
+PL46,Jon,,5/2/23,Sunny,25.4,32.5,12:49 PM,F,B,Ground,150,154,15,21.9,105,0,,"S, B",180,NR,135.44s,Jon,,12:51,F,B,46,126,0,0,2.14,0,"B,S,D",184,12.995,Ian,12.846,Cara,21.239,Ian,21.894,Cara,10.3,Jon,10.246,Cara,,135
+PL47,Jon,,5/2/23,Sunny,25.4,32.5,1:04 PM,F,DB,Tree,75,87,42,25.4,75,93,15,S,180,"S, B, D",13.89s,Jon,,13:05,F,DB,41,116,0,0,1.6,0,"B,S",168,12.589,Ian,12.566,Cara,17.979,Ian,17.751,Cara,13.26,Jon,143.457,Cara,,14
+PL48,Jon,,5/2/23,Sunny,25.4,32.5,1:17 PM,M,C,Ground,100,144,15,32.4,50,0,,S,90R,"S, B",42.31s,Jon,,13:20,M,C,54,164,0,0,2.82,0,NR,139,16.092,Ian,16.041,Cara,24.005,Ian,24.238,Cara,176.61,Jon,170.618,Cara,,42
+PL49,Jon,,5/2/23,Sunny,25.4,32.5,1:24 PM,F,DB,Ground,175,102,10,22.9,55,0,,S,90R,NR,46.49s,Jon,,13:26,F,DB,45,117,0,0,1.86,0,NR,155,13.702,Ian,14.018,Cara,20.187,Ian,20.005,Cara,16.23,Jon,14.784,Cara,,46
+PL50,Jon,,5/3/23,Sunny,27.6,31.6,12:29 PM,F,C,Shrub,107,128,34,26.7,124,48,25,S,0,"B, D, S",42.78s,Jon,,12:31,F,C,45,122,0,0,1.81,0,S,88,11.618,Ian,11.287,Cara,19.546,Ian,20.546,Cara,19.4,Jon,20.152,Cara,,43
+PL51,Jon,,5/3/23,Sunny,27.6,31.6,1:01 PM,M,C,Tree,141,170,110,24.7,245,106,100,S,0,"B, S",72.89s,Jon,,13:07,M,C,57,146,0,0,4.28,0,"B,S,D",121,16.565,Ian,15.395,Cara,23.808,Ian,23.772,Cara,207.66,Jon,209.382,Cara,,73
+PL52,Jon,,5/3/23,Sunny,27.6,31.6,1:08 PM,F,B,Pole,984,52,10,33.4,102,62,50,S,0,S,18.44s,Jon,,13:08,F,B,46,104,1,1,2.11,0,"B,S,D",163,10.779,Ian,10.719,Cara,18.013,Ian,18.444,Cara,12.36,Jon,12.28,Cara,,18
+PL53,Jon,,5/3/23,Sunny,27.6,31.6,1:17 PM,F,C,Trashcan,493,92,16,30.6,78,59,460,S,180,S,51.27s,Jon,,13:18,F,C,45,123,0,0,2.06,0,S,212,13.755,Ian,13.089,Cara,19.479,Ian,19.194,Cara,10.12,Jon,11.551,Cara,,51
+PL54,Jon,,5/3/23,Sunny,27.6,31.6,1:49 PM,F,C,Shurb,164,66,5,28.4,84,35,10,S,0,S,32.91s,Jon,,13:57,F,C,42,101,1,1,1.82,0,S,79,11.689,Ian,11.783,Cara,17.06,Ian,16.847,Cara,12.99,Jon,12.971,Cara,,33
+PL55,Jon,,5/3/23,Sunny,27.6,31.6,2:00 PM,F,C,Shrub,849,132,15,30.4,905,34,50,S,0,S,21.15s,Jon,,14:01,F,C,42,114,0,0,1.54,0,"B,S",91,10.66,Ian,10.388,Cara,17.847,Ian,18.485,Cara,10.15,Jon,9.914,Cara,,21
+PL56,Jon,,5/3/23,Sunny,27.6,31.6,2:05 PM,F,C,Cypress,1145,43,10,30.8,304,52,70,S,0,S,16.81s,Jon,,14:06,M,C,43,124,0,0,1.59,0,S,188,11.777,Ian,11.792,Cara,17.605,Ian,17.915,Cara,74.79,Jon,78.113,Cara,,17
+PL57,Jon,,5/3/23,Sunny,27.6,31.6,2:15 PM,F,D,Shrub,645,129,2,31.1,689,66,20,S,180,S,74.94s,Jon,,14:17,F,D,44,102,1,1,1.71,0,S,260,9.948,Ian,9.75,Cara,18.514,Ian,18.854,Cara,8.96,Jon,8.343,Cara,,75
+PL58,Jon,,5/3/23,Sunny,27.6,31.6,2:25 PM,F,C,Shrub,309,221,25,28.6,980,65,30,S,0,S,67.99s,Jon,,14:26,F,C,40,112,0,0,1.35,0,S,65,10.466,Ian,10.077,Cara,17.879,Ian,18.327,Cara,9.71,Jon,8.892,Cara,,68
+PL59,Jon,,5/3/23,Sunny,27.6,31.6,2:36 PM,F,C,Shrub,419,101,27,30.7,819,66,20,PU,0,S,28.36s,Jon,,14:38,F,C,42,52,1,0,1.51,0,"B,S",105,11.738,Ian,11.276,Cara,18.416,Ian,18.902,Cara,9,Jon,8.77,Cara,,28
