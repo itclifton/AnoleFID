@@ -34,9 +34,9 @@ SexM<-subset(data2, Sex=="M")
 hist(data2$FID)
 hist(log(data2$DistFled)) # Needs to be log-transformed
 hist(data2$PerchTemp) 
-hist(data2$TrailDist)
-hist(data2$PerchHeight)
-hist(data2$PerchDiameter)
+hist(log(data2$TrailDist+1))
+hist(log(data2$PerchHeight))
+hist(log(data2$PerchDiameter+1))
 hist(data2$SVL)
 hist(data2$TotalLength)
 hist(log(data2$Mass))
@@ -44,36 +44,67 @@ hist(data2$Endurance)
 
 ## Analyses
 # Sex Differences
-aov1<-aov(SVL~Sex, data=data2)
+aov1<-aov(SVL~Sex, data=data2) # Significant M>F
 summary(aov1)
+t.test(SVL~Sex, data=data2)
 plot(SVL~Sex, data=data2)
+Fig_SVL<-ggplot(data=data2, aes(x=Sex, y=SVL))+
+  geom_boxplot(outlier.shape=NA)+
+  geom_point(position=position_jitter(seed=2,width=0.15), color="#636363", size=2.5)+
+  #geom_point(data=data2, aes(x=Sex, y=Mean), size=4, shape=18)+
+  theme_classic()+
+  theme(axis.text=element_text(size=20,face="bold", color="black"), axis.title=element_text(size=22,face="bold"))+
+  theme(axis.ticks.length.y=unit(.5, "cm"), axis.ticks.y=element_line(size=1.75), axis.line=element_line(size=1.75))+
+  theme(plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
+  scale_x_discrete(labels = c('Female','Male'))+
+  scale_y_continuous(expand = c(0, 0), limits = c(35, 65), breaks=seq(35,65,5))+
+  xlab("")+ ylab("SVL (mm)")
+#ggsave("Fig_SVL.jpeg", width=8, height=8, plot=Fig_SVL)
 
 aov2<-aov(TrailDist~Sex, data=data2)
 summary(aov2)
+t.test(log(TrailDist+1)~Sex, data=data2)
 plot(TrailDist~Sex, data=data2)
 
 aov3<-aov(FID~Sex, data=data2)
 summary(aov3)
+t.test(FID~Sex, data=data2)
 plot(FID~Sex, data=data2)
 
 aov4<-aov(log(DistFled)~Sex, data=data2) # Significant M>F
 summary(aov4)
+t.test(log(DistFled)~Sex, data=data2)
 plot(log(DistFled)~Sex, data=data2)
 aggregate(DistFled~Sex, mean, data=data2)
 aggregate(log(DistFled)~Sex, mean, data=data2)
 aggregate(DistFled~Sex, range, data=data2)
+Fig_DistFled<-ggplot(data=data2, aes(x=Sex, y=log(DistFled)))+
+  geom_boxplot(outlier.shape=NA)+
+  geom_point(position=position_jitter(seed=2,width=0.15), color="#636363", size=2.5)+
+  #geom_point(data=data2, aes(x=Sex, y=Mean), size=4, shape=18)+
+  theme_classic()+
+  theme(axis.text=element_text(size=20,face="bold",color="black"), axis.title=element_text(size=22,face="bold"))+
+  theme(axis.ticks.length.y=unit(.5, "cm"), axis.ticks.y=element_line(size=1.75), axis.line=element_line(size=1.75))+
+  theme(plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
+  scale_x_discrete(labels = c('Female','Male'))+
+  scale_y_continuous(expand = c(0, 0), limits = c(0, 5), breaks=seq(0,5,1))+
+  xlab("")+ ylab("log(Distance Fled (cm))")
+#ggsave("Fig_DistFled.jpeg", width=8, height=8, plot=Fig_DistFled)
 
 aov5<-aov(Endurance~Sex, data=data2)
+t.test(Endurance~Sex, data=data2)
 summary(aov5)
 plot(Endurance~Sex, data=data2)
 
 aov6<-aov(PerchTemp~Sex, data=data2)
 summary(aov6)
+t.test(PerchTemp~Sex, data=data2)
 plot(PerchTemp~Sex, data=data2)
 
 aov7<-aov(PerchHeight~Sex, data=data2)
 summary(aov7)
-plot(PerchHeight~Sex, data=data2)
+t.test(log(PerchHeight+1)~Sex, data=data2)
+plot(log(PerchHeight+1)~Sex, data=data2)
 
 aov8<-aov(PerchDiameter~Sex, data=data2) # Perch Diameter has some suspect measurements
 summary(aov8)
@@ -151,11 +182,10 @@ End.M<-ggplot(aes(x=SVL, y=Endurance), data=SexM)+
   geom_point(size=3)+
   geom_abline(intercept=193.258, slope=-1.556, size=1.5)+
   theme_classic()+
-  theme(axis.text=element_text(size=20,face="bold"), axis.title=element_text(size=22,face="bold"),
-        legend.text=element_text(size=22, face="bold"), legend.title=element_text(size=25, face="bold", hjust=0.5))+
+  theme(axis.text=element_text(size=20,face="bold",color="black"), axis.title=element_text(size=22,face="bold"))+
   theme(axis.ticks.length.y=unit(.5, "cm"), axis.ticks.y=element_line(size=1.75), axis.line=element_line(size=1.75),
         plot.title=element_text(size=26, face="bold", hjust = 0.5))+
-  theme(legend.position = c(.75, .2), plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
+  theme(plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
   scale_y_continuous(expand = c(0, 0), limits = c(0, 300), breaks=seq(0,300,50))+
   scale_x_continuous(limits = c(35, 66), breaks=seq(35,65,5))+
   xlab("SVL (mm)")+ ylab("Endurance (s)")+ ggtitle("Male")+
@@ -167,11 +197,10 @@ End.F<-ggplot(aes(x=SVL, y=Endurance), data=SexF)+
   geom_point(size=3)+
   geom_abline(intercept=-221.146, slope=8.022, size=1.5)+
   theme_classic()+
-  theme(axis.text=element_text(size=20,face="bold"), axis.title=element_text(size=22,face="bold"),
-        legend.text=element_text(size=22, face="bold"), legend.title=element_text(size=25, face="bold", hjust=0.5))+
+  theme(axis.text=element_text(size=20,face="bold",color="black"), axis.title=element_text(size=22,face="bold"))+
   theme(axis.ticks.length.y=unit(.5, "cm"), axis.ticks.y=element_line(size=1.75), axis.line=element_line(size=1.75),
         plot.title=element_text(size=26, face="bold", hjust = 0.5))+
-  theme(legend.position = c(.75, .2), plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
+  theme(plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
   scale_y_continuous(expand = c(0, 0), limits = c(0, 300), breaks=seq(0,300,50))+
   scale_x_continuous(limits = c(35, 65), breaks=seq(35,65,5))+
   xlab("SVL (mm)")+ ylab("")+ggtitle("Female")+
@@ -179,7 +208,7 @@ End.F<-ggplot(aes(x=SVL, y=Endurance), data=SexF)+
 
 End.Fig<-plot_grid(End.M, End.F,
                 labels = "", nrow = 1, align="h")
-ggsave("Fig_End.jpeg", width=16, height=8, plot=End.Fig)
+#ggsave("Fig_End.jpeg", width=16, height=8, plot=End.Fig)
 
 lm2<-lm(FID~Endurance, data=data2) # NS
 summary(lm2)
@@ -286,15 +315,18 @@ summary(lm13)
 
 aov14<-lm(log(DistFled)~PerchTemp, data=data2) # Negative relationship between perch temp and distance fled
 summary(aov14)
-ggplot(aes(x=PerchTemp, y=log(DistFled)), data=data2)+
-  geom_point(size=2)+
-  geom_smooth(method="lm", se=F)+
+Fig_PTemp<-ggplot(aes(x=PerchTemp, y=log(DistFled)), group=Sex, data=data2)+
+  geom_point(aes(colour=Sex), size=3)+
+  geom_abline(intercept=5.05238, slope=-0.06678, size=1.5)+
   theme_classic()+
-  theme(axis.text=element_text(size=20,face="bold"), axis.title=element_text(size=22,face="bold"),
+  theme(axis.text=element_text(size=20,face="bold",color="black"), axis.title=element_text(size=22,face="bold"),
         legend.text=element_text(size=22, face="bold"), legend.title=element_text(size=25, face="bold", hjust=0.5))+
   theme(axis.ticks.length.y=unit(.5, "cm"), axis.ticks.y=element_line(size=1.75), axis.line=element_line(size=1.75))+
-  theme(legend.position = c(.75, .2), plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
-  scale_y_continuous(expand = c(0, 0), limits = c(0, 5), breaks=seq(0,5,1))
+  theme(legend.position = c(.25, .23), plot.margin = margin(11, 5.5, 5.5, 5.5, "pt"))+
+  scale_y_continuous(expand = c(0, 0), limits = c(0, 5), breaks=seq(0,5,1))+
+  scale_x_continuous(limits = c(15, 40), breaks=seq(15,40,5))+
+  xlab("Perch Temperature (°C)")+ ylab("log(Distance Fled (cm))")
+#ggsave("Fig_PTemp.jpeg", width=8, height=8, plot=Fig_PTemp)
 
 aov14.M<-lm(log(DistFled)~PerchTemp, data=SexM)
 summary(aov14.M)
